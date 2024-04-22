@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">Soy un desarrollador junior de Videojuegos enfocado en Unity y Unreal</h3>
+<h3 align="center">Soy un desarrollador Senior de Videojuegos enfocado en Unity y Unreal</h3>
 
 
 <p align="center">
